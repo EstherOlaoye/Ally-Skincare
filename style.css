@@ -252,6 +252,12 @@ html, body {
     font-size: 2rem;
     padding: .7rem;
   }
+  .carousel-caption h2 {
+    font-size: 160%;
+  }
+  .carousel-caption h3 {
+    font-size: 100%;
+  }
 }
 
 
